@@ -1,0 +1,30 @@
+C:\Users\DraxGaming\Google Drive\TwitchBot\DiscordBotTest\RecordingTimer\RecordingTimer\bin\Debug\DSW.exe.config
+C:\Users\DraxGaming\Google Drive\TwitchBot\DiscordBotTest\RecordingTimer\RecordingTimer\bin\Debug\DSW.exe.manifest
+C:\Users\DraxGaming\Google Drive\TwitchBot\DiscordBotTest\RecordingTimer\RecordingTimer\bin\Debug\DSW.application
+C:\Users\DraxGaming\Google Drive\TwitchBot\DiscordBotTest\RecordingTimer\RecordingTimer\bin\Debug\DSW.exe
+C:\Users\DraxGaming\Google Drive\TwitchBot\DiscordBotTest\RecordingTimer\RecordingTimer\bin\Debug\DSW.pdb
+C:\Users\DraxGaming\Google Drive\TwitchBot\DiscordBotTest\RecordingTimer\RecordingTimer\bin\Debug\DSW.xml
+C:\Users\DraxGaming\Google Drive\TwitchBot\DiscordBotTest\RecordingTimer\RecordingTimer\obj\Debug\DraxianStopWatch.vbprojResolveAssemblyReference.cache
+C:\Users\DraxGaming\Google Drive\TwitchBot\DiscordBotTest\RecordingTimer\RecordingTimer\obj\Debug\RecordingTimer.Resources.resources
+C:\Users\DraxGaming\Google Drive\TwitchBot\DiscordBotTest\RecordingTimer\RecordingTimer\obj\Debug\RecordingTimer.DSW.resources
+C:\Users\DraxGaming\Google Drive\TwitchBot\DiscordBotTest\RecordingTimer\RecordingTimer\obj\Debug\DraxianStopWatch.vbproj.GenerateResource.Cache
+C:\Users\DraxGaming\Google Drive\TwitchBot\DiscordBotTest\RecordingTimer\RecordingTimer\obj\Debug\DSW.exe.manifest
+C:\Users\DraxGaming\Google Drive\TwitchBot\DiscordBotTest\RecordingTimer\RecordingTimer\obj\Debug\DSW.application
+C:\Users\DraxGaming\Google Drive\TwitchBot\DiscordBotTest\RecordingTimer\RecordingTimer\obj\Debug\DSW.exe
+C:\Users\DraxGaming\Google Drive\TwitchBot\DiscordBotTest\RecordingTimer\RecordingTimer\obj\Debug\DSW.xml
+C:\Users\DraxGaming\Google Drive\TwitchBot\DiscordBotTest\RecordingTimer\RecordingTimer\obj\Debug\DSW.pdb
+E:\Documents\Programming Projects\Visual Basic\DraxianStopWatch\RecordingTimer\bin\Debug\DSW.exe.config
+E:\Documents\Programming Projects\Visual Basic\DraxianStopWatch\RecordingTimer\obj\Debug\DSW.exe
+E:\Documents\Programming Projects\Visual Basic\DraxianStopWatch\RecordingTimer\obj\Debug\DSW.xml
+E:\Documents\Programming Projects\Visual Basic\DraxianStopWatch\RecordingTimer\obj\Debug\DSW.pdb
+E:\Documents\Programming Projects\Visual Basic\DraxianStopWatch\RecordingTimer\bin\Debug\DSW.exe.manifest
+E:\Documents\Programming Projects\Visual Basic\DraxianStopWatch\RecordingTimer\bin\Debug\DSW.application
+E:\Documents\Programming Projects\Visual Basic\DraxianStopWatch\RecordingTimer\bin\Debug\DSW.exe
+E:\Documents\Programming Projects\Visual Basic\DraxianStopWatch\RecordingTimer\bin\Debug\DSW.pdb
+E:\Documents\Programming Projects\Visual Basic\DraxianStopWatch\RecordingTimer\bin\Debug\DSW.xml
+E:\Documents\Programming Projects\Visual Basic\DraxianStopWatch\RecordingTimer\obj\Debug\DraxianStopWatch.vbprojResolveAssemblyReference.cache
+E:\Documents\Programming Projects\Visual Basic\DraxianStopWatch\RecordingTimer\obj\Debug\RecordingTimer.Resources.resources
+E:\Documents\Programming Projects\Visual Basic\DraxianStopWatch\RecordingTimer\obj\Debug\RecordingTimer.DSW.resources
+E:\Documents\Programming Projects\Visual Basic\DraxianStopWatch\RecordingTimer\obj\Debug\DraxianStopWatch.vbproj.GenerateResource.Cache
+E:\Documents\Programming Projects\Visual Basic\DraxianStopWatch\RecordingTimer\obj\Debug\DSW.exe.manifest
+E:\Documents\Programming Projects\Visual Basic\DraxianStopWatch\RecordingTimer\obj\Debug\DSW.application

@@ -1,0 +1,14 @@
+E:\Documents\Programming Projects\Visual Basic\DraxianStopWatch\RecordingTimer\bin\Release\DSW.exe.config
+E:\Documents\Programming Projects\Visual Basic\DraxianStopWatch\RecordingTimer\bin\Release\DSW.exe.manifest
+E:\Documents\Programming Projects\Visual Basic\DraxianStopWatch\RecordingTimer\bin\Release\DSW.application
+E:\Documents\Programming Projects\Visual Basic\DraxianStopWatch\RecordingTimer\bin\Release\DSW.exe
+E:\Documents\Programming Projects\Visual Basic\DraxianStopWatch\RecordingTimer\bin\Release\DSW.pdb
+E:\Documents\Programming Projects\Visual Basic\DraxianStopWatch\RecordingTimer\bin\Release\DSW.xml
+E:\Documents\Programming Projects\Visual Basic\DraxianStopWatch\RecordingTimer\obj\Release\RecordingTimer.Resources.resources
+E:\Documents\Programming Projects\Visual Basic\DraxianStopWatch\RecordingTimer\obj\Release\RecordingTimer.DSW.resources
+E:\Documents\Programming Projects\Visual Basic\DraxianStopWatch\RecordingTimer\obj\Release\DraxianStopWatch.vbproj.GenerateResource.Cache
+E:\Documents\Programming Projects\Visual Basic\DraxianStopWatch\RecordingTimer\obj\Release\DSW.exe.manifest
+E:\Documents\Programming Projects\Visual Basic\DraxianStopWatch\RecordingTimer\obj\Release\DSW.application
+E:\Documents\Programming Projects\Visual Basic\DraxianStopWatch\RecordingTimer\obj\Release\DSW.exe
+E:\Documents\Programming Projects\Visual Basic\DraxianStopWatch\RecordingTimer\obj\Release\DSW.xml
+E:\Documents\Programming Projects\Visual Basic\DraxianStopWatch\RecordingTimer\obj\Release\DSW.pdb

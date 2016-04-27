@@ -1,0 +1,14 @@
+C:\Users\DraxGaming\Google Drive\TwitchBot\DiscordBotTest\RecordingTimer\RecordingTimer\bin\Release\RecordingTimer.exe.config
+C:\Users\DraxGaming\Google Drive\TwitchBot\DiscordBotTest\RecordingTimer\RecordingTimer\bin\Release\RecordingTimer.exe.manifest
+C:\Users\DraxGaming\Google Drive\TwitchBot\DiscordBotTest\RecordingTimer\RecordingTimer\bin\Release\RecordingTimer.application
+C:\Users\DraxGaming\Google Drive\TwitchBot\DiscordBotTest\RecordingTimer\RecordingTimer\bin\Release\RecordingTimer.exe
+C:\Users\DraxGaming\Google Drive\TwitchBot\DiscordBotTest\RecordingTimer\RecordingTimer\bin\Release\RecordingTimer.pdb
+C:\Users\DraxGaming\Google Drive\TwitchBot\DiscordBotTest\RecordingTimer\RecordingTimer\bin\Release\RecordingTimer.xml
+C:\Users\DraxGaming\Google Drive\TwitchBot\DiscordBotTest\RecordingTimer\RecordingTimer\obj\Release\RecordingTimer.Resources.resources
+C:\Users\DraxGaming\Google Drive\TwitchBot\DiscordBotTest\RecordingTimer\RecordingTimer\obj\Release\RecordingTimer.DSW.resources
+C:\Users\DraxGaming\Google Drive\TwitchBot\DiscordBotTest\RecordingTimer\RecordingTimer\obj\Release\RecordingTimer.vbproj.GenerateResource.Cache
+C:\Users\DraxGaming\Google Drive\TwitchBot\DiscordBotTest\RecordingTimer\RecordingTimer\obj\Release\RecordingTimer.exe.manifest
+C:\Users\DraxGaming\Google Drive\TwitchBot\DiscordBotTest\RecordingTimer\RecordingTimer\obj\Release\RecordingTimer.application
+C:\Users\DraxGaming\Google Drive\TwitchBot\DiscordBotTest\RecordingTimer\RecordingTimer\obj\Release\RecordingTimer.exe
+C:\Users\DraxGaming\Google Drive\TwitchBot\DiscordBotTest\RecordingTimer\RecordingTimer\obj\Release\RecordingTimer.xml
+C:\Users\DraxGaming\Google Drive\TwitchBot\DiscordBotTest\RecordingTimer\RecordingTimer\obj\Release\RecordingTimer.pdb
