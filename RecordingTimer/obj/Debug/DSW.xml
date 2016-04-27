@@ -22,12 +22,7 @@ DSW
   resource lookups using this strongly typed resource class.
 </summary>
 </member>
-<member name="P:RecordingTimer.My.Resources.Resources._1450092_10151908198843159_1887061232_n">
-<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member>
-<member name="P:RecordingTimer.My.Resources.Resources._1914109_126491413158_3120701_n">
+<member name="P:RecordingTimer.My.Resources.Resources.DSWBackground">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>

@@ -12,3 +12,33 @@ E:\Documents\Programming Projects\Visual Basic\DraxianStopWatch\RecordingTimer\o
 E:\Documents\Programming Projects\Visual Basic\DraxianStopWatch\RecordingTimer\obj\Release\DSW.exe
 E:\Documents\Programming Projects\Visual Basic\DraxianStopWatch\RecordingTimer\obj\Release\DSW.xml
 E:\Documents\Programming Projects\Visual Basic\DraxianStopWatch\RecordingTimer\obj\Release\DSW.pdb
+C:\Users\eranders\Documents\Programming\Visual Basic\DraxianStopWatch-master\RecordingTimer\bin\Release\DSW.exe.config
+C:\Users\eranders\Documents\Programming\Visual Basic\DraxianStopWatch-master\RecordingTimer\obj\Release\DSW.exe
+C:\Users\eranders\Documents\Programming\Visual Basic\DraxianStopWatch-master\RecordingTimer\obj\Release\DSW.xml
+C:\Users\eranders\Documents\Programming\Visual Basic\DraxianStopWatch-master\RecordingTimer\obj\Release\DSW.pdb
+C:\Users\eranders\Documents\Programming\Visual Basic\DraxianStopWatch-master\RecordingTimer\obj\Release\DraxianStopWatch.vbprojResolveAssemblyReference.cache
+C:\Users\eranders\Documents\Programming\Visual Basic\DraxianStopWatch-master\RecordingTimer\obj\Release\RecordingTimer.Resources.resources
+C:\Users\eranders\Documents\Programming\Visual Basic\DraxianStopWatch-master\RecordingTimer\obj\Release\RecordingTimer.DSW.resources
+C:\Users\eranders\Documents\Programming\Visual Basic\DraxianStopWatch-master\RecordingTimer\obj\Release\DraxianStopWatch.vbproj.GenerateResource.Cache
+C:\Users\DraxGaming\Google Drive\DraxianStopWatch-master\RecordingTimer\bin\Release\DSW.exe.config
+C:\Users\DraxGaming\Google Drive\DraxianStopWatch-master\RecordingTimer\obj\Release\DSW.exe
+C:\Users\DraxGaming\Google Drive\DraxianStopWatch-master\RecordingTimer\obj\Release\DSW.xml
+C:\Users\DraxGaming\Google Drive\DraxianStopWatch-master\RecordingTimer\obj\Release\DSW.pdb
+C:\Users\DraxGaming\Google Drive\DraxianStopWatch-master\RecordingTimer\bin\Release\DSW.exe.manifest
+C:\Users\DraxGaming\Google Drive\DraxianStopWatch-master\RecordingTimer\bin\Release\DSW.application
+C:\Users\DraxGaming\Google Drive\DraxianStopWatch-master\RecordingTimer\bin\Release\DSW.exe
+C:\Users\DraxGaming\Google Drive\DraxianStopWatch-master\RecordingTimer\bin\Release\DSW.pdb
+C:\Users\DraxGaming\Google Drive\DraxianStopWatch-master\RecordingTimer\bin\Release\DSW.xml
+C:\Users\DraxGaming\Google Drive\DraxianStopWatch-master\RecordingTimer\obj\Release\DraxianStopWatch.vbprojResolveAssemblyReference.cache
+C:\Users\DraxGaming\Google Drive\DraxianStopWatch-master\RecordingTimer\obj\Release\RecordingTimer.DSW_Settings.resources
+C:\Users\DraxGaming\Google Drive\DraxianStopWatch-master\RecordingTimer\obj\Release\RecordingTimer.Hotkeys_Window.resources
+C:\Users\DraxGaming\Google Drive\DraxianStopWatch-master\RecordingTimer\obj\Release\RecordingTimer.Resources.resources
+C:\Users\DraxGaming\Google Drive\DraxianStopWatch-master\RecordingTimer\obj\Release\RecordingTimer.Overlay.resources
+C:\Users\DraxGaming\Google Drive\DraxianStopWatch-master\RecordingTimer\obj\Release\RecordingTimer.DSW.resources
+C:\Users\DraxGaming\Google Drive\DraxianStopWatch-master\RecordingTimer\obj\Release\DraxianStopWatch.vbproj.GenerateResource.Cache
+C:\Users\DraxGaming\Google Drive\DraxianStopWatch-master\RecordingTimer\obj\Release\DSW.exe.manifest
+C:\Users\DraxGaming\Google Drive\DraxianStopWatch-master\RecordingTimer\obj\Release\DSW.application
+E:\Documents\Programming Projects\Visual Basic\DraxianStopWatch\RecordingTimer\obj\Release\DraxianStopWatch.vbprojResolveAssemblyReference.cache
+E:\Documents\Programming Projects\Visual Basic\DraxianStopWatch\RecordingTimer\obj\Release\RecordingTimer.DSW_Settings.resources
+E:\Documents\Programming Projects\Visual Basic\DraxianStopWatch\RecordingTimer\obj\Release\RecordingTimer.Hotkeys_Window.resources
+E:\Documents\Programming Projects\Visual Basic\DraxianStopWatch\RecordingTimer\obj\Release\RecordingTimer.Overlay.resources

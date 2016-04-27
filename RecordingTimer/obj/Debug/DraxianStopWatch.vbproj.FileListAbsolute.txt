@@ -28,3 +28,39 @@ E:\Documents\Programming Projects\Visual Basic\DraxianStopWatch\RecordingTimer\o
 E:\Documents\Programming Projects\Visual Basic\DraxianStopWatch\RecordingTimer\obj\Debug\DraxianStopWatch.vbproj.GenerateResource.Cache
 E:\Documents\Programming Projects\Visual Basic\DraxianStopWatch\RecordingTimer\obj\Debug\DSW.exe.manifest
 E:\Documents\Programming Projects\Visual Basic\DraxianStopWatch\RecordingTimer\obj\Debug\DSW.application
+C:\Users\eranders\Documents\Programming\Visual Basic\DraxianStopWatch-master\RecordingTimer\bin\Debug\DSW.exe.config
+C:\Users\eranders\Documents\Programming\Visual Basic\DraxianStopWatch-master\RecordingTimer\obj\Debug\DSW.exe
+C:\Users\eranders\Documents\Programming\Visual Basic\DraxianStopWatch-master\RecordingTimer\obj\Debug\DSW.xml
+C:\Users\eranders\Documents\Programming\Visual Basic\DraxianStopWatch-master\RecordingTimer\obj\Debug\DSW.pdb
+C:\Users\eranders\Documents\Programming\Visual Basic\DraxianStopWatch-master\RecordingTimer\obj\Debug\DraxianStopWatch.vbprojResolveAssemblyReference.cache
+C:\Users\eranders\Documents\Programming\Visual Basic\DraxianStopWatch-master\RecordingTimer\obj\Debug\RecordingTimer.Resources.resources
+C:\Users\eranders\Documents\Programming\Visual Basic\DraxianStopWatch-master\RecordingTimer\obj\Debug\RecordingTimer.DSW.resources
+C:\Users\eranders\Documents\Programming\Visual Basic\DraxianStopWatch-master\RecordingTimer\obj\Debug\DraxianStopWatch.vbproj.GenerateResource.Cache
+C:\Users\eranders\Documents\Programming\Visual Basic\DraxianStopWatch-master\RecordingTimer\bin\Debug\DSW.exe.manifest
+C:\Users\eranders\Documents\Programming\Visual Basic\DraxianStopWatch-master\RecordingTimer\bin\Debug\DSW.application
+C:\Users\eranders\Documents\Programming\Visual Basic\DraxianStopWatch-master\RecordingTimer\bin\Debug\DSW.exe
+C:\Users\eranders\Documents\Programming\Visual Basic\DraxianStopWatch-master\RecordingTimer\bin\Debug\DSW.pdb
+C:\Users\eranders\Documents\Programming\Visual Basic\DraxianStopWatch-master\RecordingTimer\bin\Debug\DSW.xml
+C:\Users\eranders\Documents\Programming\Visual Basic\DraxianStopWatch-master\RecordingTimer\obj\Debug\DSW.exe.manifest
+C:\Users\eranders\Documents\Programming\Visual Basic\DraxianStopWatch-master\RecordingTimer\obj\Debug\DSW.application
+C:\Users\eranders\Documents\Programming\Visual Basic\DraxianStopWatch-master\RecordingTimer\obj\Debug\RecordingTimer.DSW_Settings.resources
+C:\Users\eranders\Documents\Programming\Visual Basic\DraxianStopWatch-master\RecordingTimer\obj\Debug\RecordingTimer.Overlay.resources
+C:\Users\eranders\Documents\Programming\Visual Basic\DraxianStopWatch-master\RecordingTimer\obj\Debug\RecordingTimer.Hotkeys_Window.resources
+C:\Users\DraxGaming\Google Drive\DraxianStopWatch-master\RecordingTimer\bin\Debug\DSW.exe.config
+C:\Users\DraxGaming\Google Drive\DraxianStopWatch-master\RecordingTimer\obj\Debug\DSW.exe
+C:\Users\DraxGaming\Google Drive\DraxianStopWatch-master\RecordingTimer\obj\Debug\DSW.xml
+C:\Users\DraxGaming\Google Drive\DraxianStopWatch-master\RecordingTimer\obj\Debug\DSW.pdb
+C:\Users\DraxGaming\Google Drive\DraxianStopWatch-master\RecordingTimer\bin\Debug\DSW.exe.manifest
+C:\Users\DraxGaming\Google Drive\DraxianStopWatch-master\RecordingTimer\bin\Debug\DSW.application
+C:\Users\DraxGaming\Google Drive\DraxianStopWatch-master\RecordingTimer\bin\Debug\DSW.exe
+C:\Users\DraxGaming\Google Drive\DraxianStopWatch-master\RecordingTimer\bin\Debug\DSW.pdb
+C:\Users\DraxGaming\Google Drive\DraxianStopWatch-master\RecordingTimer\bin\Debug\DSW.xml
+C:\Users\DraxGaming\Google Drive\DraxianStopWatch-master\RecordingTimer\obj\Debug\DraxianStopWatch.vbprojResolveAssemblyReference.cache
+C:\Users\DraxGaming\Google Drive\DraxianStopWatch-master\RecordingTimer\obj\Debug\RecordingTimer.DSW_Settings.resources
+C:\Users\DraxGaming\Google Drive\DraxianStopWatch-master\RecordingTimer\obj\Debug\RecordingTimer.Hotkeys_Window.resources
+C:\Users\DraxGaming\Google Drive\DraxianStopWatch-master\RecordingTimer\obj\Debug\RecordingTimer.Resources.resources
+C:\Users\DraxGaming\Google Drive\DraxianStopWatch-master\RecordingTimer\obj\Debug\RecordingTimer.Overlay.resources
+C:\Users\DraxGaming\Google Drive\DraxianStopWatch-master\RecordingTimer\obj\Debug\RecordingTimer.DSW.resources
+C:\Users\DraxGaming\Google Drive\DraxianStopWatch-master\RecordingTimer\obj\Debug\DraxianStopWatch.vbproj.GenerateResource.Cache
+C:\Users\DraxGaming\Google Drive\DraxianStopWatch-master\RecordingTimer\obj\Debug\DSW.exe.manifest
+C:\Users\DraxGaming\Google Drive\DraxianStopWatch-master\RecordingTimer\obj\Debug\DSW.application

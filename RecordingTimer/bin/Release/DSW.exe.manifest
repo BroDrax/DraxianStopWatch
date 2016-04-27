@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DSW.exe" size="603072">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DSW.exe" size="1168832">
       <assemblyIdentity name="DSW" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>wRSYVQSatgT5RiDVuqUOi1W81RL+iCYYAwZwSMsc6UI=</dsig:DigestValue>
+        <dsig:DigestValue>4JwSgpWKNpU2804SrOVfh/Sja4DBfDwoleCAWh8jhlM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -63,13 +63,22 @@
       <dsig:DigestValue>5AYduK3Dz9P/tEH1VdcHfNnnBezRYli46WJSX/f3j2Y=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="DSW.exe.config" size="188">
+  <file name="DSW.exe.config" size="183">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>j5XMowm9qYcyNWR87Ke1KpLLXBlaYAR38CaZywZFE9o=</dsig:DigestValue>
+      <dsig:DigestValue>W3FZXfp6nic/JgBKAphnz5YgZAGfG4Qip/tcfHJexlE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Logo.jpg" size="4648">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>sq4mcECpmiQbfgrk7sb4d4JNpLh/J/EDCE1e6IaXpAA=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>

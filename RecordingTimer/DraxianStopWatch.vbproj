@@ -104,6 +104,18 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DSW_Settings.Designer.vb">
+      <DependentUpon>DSW_Settings.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DSW_Settings.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hotkeys_Window.Designer.vb">
+      <DependentUpon>Hotkeys_Window.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Hotkeys_Window.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -119,22 +131,36 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
-    <Compile Include="StopWatch.Designer.vb">
-      <DependentUpon>StopWatch.vb</DependentUpon>
+    <Compile Include="Overlay.Designer.vb">
+      <DependentUpon>Overlay.vb</DependentUpon>
     </Compile>
-    <Compile Include="StopWatch.vb">
+    <Compile Include="Overlay.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DSW.Designer.vb">
+      <DependentUpon>DSW.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DSW.vb">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="DSW_Settings.resx">
+      <DependentUpon>DSW_Settings.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hotkeys_Window.resx">
+      <DependentUpon>Hotkeys_Window.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.vb</LastGenOutput>
-      <CustomToolNamespace>My.Resources</CustomToolNamespace>
-      <SubType>Designer</SubType>
     </EmbeddedResource>
-    <EmbeddedResource Include="StopWatch.resx">
-      <DependentUpon>StopWatch.vb</DependentUpon>
+    <EmbeddedResource Include="Overlay.resx">
+      <DependentUpon>Overlay.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DSW.resx">
+      <DependentUpon>DSW.vb</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
@@ -149,6 +175,7 @@
     </None>
     <None Include="App.config" />
     <None Include="RecordingTimer_TemporaryKey.pfx" />
+    <None Include="Resources\DSWBackground.jpg" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
@@ -163,14 +190,10 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\1450092_10151908198843159_1887061232_n.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\1914109_126491413158_3120701_n.jpg" />
-  </ItemGroup>
-  <ItemGroup>
     <Content Include="BroDraxIcon.ico" />
+    <Content Include="Resources\Logo.jpg" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
